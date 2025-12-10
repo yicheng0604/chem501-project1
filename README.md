@@ -17,6 +17,7 @@ plot_scatter_fit_humidity.py                 # Humidity: scatter + smooth + line
 plot_scatter_fit_pressure.py                 # Pressure: scatter + smooth + linear fit
 
 ##[3]Quick start:
+
 ###1) Install dependencies
 pip install paho-mqtt numpy pandas matplotlib requests
 
